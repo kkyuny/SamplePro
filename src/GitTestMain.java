@@ -11,6 +11,7 @@ public class GitTestMain {
 		System.out.println("hotfix Branch2");
 		
 		System.out.println("Master Branch2");
+		System.out.println("hotfix final");
 	}
 
 }
