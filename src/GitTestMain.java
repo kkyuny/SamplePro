@@ -16,7 +16,8 @@ public class GitTestMain {
 
 		System.out.println("hotfix final");
 		System.out.println("github 접속2");
-
+		
+		System.out.println("hotfix remote push");
 	}
 
 }
